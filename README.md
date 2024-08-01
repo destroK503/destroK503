@@ -1,10 +1,10 @@
 # Me
 
-#### I'm Destro I made cool stuff.. i guess
+#### I'm Destro I make cool stuff.. i guess
 
 Number one Javascript hater 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=2C9A3A&width=435&lines=print(%22Hello+world%22);System.out.printnl(%22Hello+world%22);fmt%3A%3Aprint(%22Hola+Mundo+%5Cn%22);console.log(%22Hallo+Welt%22);Idk+what+to+put+here;TOUCH+SOME+GRASS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=2C9A3A&width=435&lines=print(%22Hello+world%22);System.out.printnl(%22Hello%22);fmt%3A%3Aprint(%22Hola+Mundo+%5Cn%22);console.log(%22Hallo+Welt%22);Idk+what+to+put+here;TOUCH+SOME+GRASS)](https://git.io/typing-svg)
 
 
 # Stats 
